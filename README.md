@@ -13,3 +13,4 @@ First production run; data released as https://doi.org/10.5281/zenodo.22757913.
   - ohc_gcos_emitter: https://github.com/ocean-grid-processing/ohc_gcos_emitter/releases/tag/1.0.0
   - ohc_map_emitter: https://github.com/ocean-grid-processing/ohc_map_emitter/releases/tag/1.0.0
 - Pipeline environment: https://github.com/ocean-grid-processing/provenance/blob/main/environments/ohc_crosscheck
+- Runbook notes: each pipeline step has a `run.sh` to manage slurm scheduling on CU Blanca; set parameters therein, as well as in the top-level `.slurm` scripts they call and in ohc_ingest's `config.toml`. Run configs are stamped in the resulting .nc files for reference.
