@@ -12,7 +12,7 @@ First runs including support for intensive variables like mixed layer depth, and
   - ohca_ohu_ogp_emitter: https://github.com/ocean-grid-processing/ohca_ohu_ogp_emitter/releases/tag/1.0.0
   - gcos_ogp_emitter: https://github.com/ocean-grid-processing/gcos_ogp_emitter/releases/tag/1.1.0
   - map_ogp_emitter: https://github.com/ocean-grid-processing/map_ogp_emitter/releases/tag/1.0.0
-  - field_map_ogp_emitter: https://github.com/ocean-grid-processing/field_map_ogp_emitter/releases/tag/1.0.0 and 1.1.0; see file metadata.
+  - field_map_ogp_emitter: https://github.com/ocean-grid-processing/field_map_ogp_emitter/releases/tag/1.1.0 and 1.1.1; see file metadata.
 - Pipeline environment: https://github.com/ocean-grid-processing/provenance/blob/main/environments/ohc_crosscheck
 
 ## 260908-OP20260507
